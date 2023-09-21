@@ -11,5 +11,7 @@ I have worked on Trial Project - 1 Traditional Machine Learning Model
 
 ### Work By - 
 Ravjot Singh
+
 San Jose State University, CA, USA
+
 MS, Data Analytics'2025
