@@ -7,7 +7,7 @@ This repository contains the copy of my Project (for Fall 2023 semester) submitt
 https://docs.google.com/document/d/1vrv0bcJg09zEAatyTZdEQW8H7BE7DjmtXRqaoTOX36c/edit
 
 ### Project Submission
-I have worked on Trial Project - 1 Traditional Machine Learning Model
+Trial Project - 1 Traditional Machine Learning Model
 
 ### Work By - 
 Ravjot Singh
